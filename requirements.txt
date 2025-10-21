@@ -1,0 +1,14 @@
+Pillow
+einops
+safetensors
+torchmetrics
+diffusers==0.34.0
+imageio[pyav]
+imageio[ffmpeg]
+accelerate
+av
+transformers
+scikit-learn
+matplotlib
+protobuf
+sentencepiece
