@@ -208,8 +208,9 @@ ConsistEdit_Code/
 
 This codebase is built upon and inspired by several excellent open-source projects:
 
-- **[PnPInversion](https://github.com/cure-lab/PnPInversion)**: Plug-and-Play diffusion features for text-driven image-to-image translation
 - **[MasaCtrl](https://github.com/TencentARC/MasaCtrl)**: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing
+- **[PnPInversion](https://github.com/cure-lab/PnPInversion)**: Plug-and-Play diffusion features for text-driven image-to-image translation
+- **[UniEdit-Flow](https://github.com/DSL-Lab/UniEdit-Flow)**: UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models
 - **[DiTCtrl](https://github.com/TencentARC/DiTCtrl)**: DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation
 
 We thank the authors of these works for their valuable contributions to the diffusion model editing community.
