@@ -223,11 +223,8 @@ If you find this work useful, please cite our paper:
 @inproceedings{yin2025consistedit,
   title={ConsistEdit: Highly Consistent and Precise Training-free Visual Editing},
   author={Yin, Zixin and Chen, Ling-Hao and Ni, Lionel and Dai, Xili},
-  booktitle={SIGGRAPH Asia 2025 Conference Papers},
-  year={2025},
-  publisher={ACM},
-  doi={10.1145/3757377.3763909},
-  address={Hong Kong, China},
-  isbn={979-8-4007-2137-3/2025/12}
+  booktitle={Proceedings of the SIGGRAPH Asia 2025 Conference Papers},
+  pages={1--11},
+  year={2025}
 }
 ```
